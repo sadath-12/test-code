@@ -1,0 +1,23 @@
+{
+  "name": "test-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadath-12/test-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadath-12/test-code/issues"
+  },
+  "homepage": "https://github.com/sadath-12/test-code#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
